@@ -2,4 +2,4 @@
 
 - collect Amazon product data
 - extract product quantity from name description
-- track project prices
+- track product prices
